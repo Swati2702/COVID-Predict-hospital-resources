@@ -2,6 +2,8 @@
 
 This project was created for Datathon 2020 Challenge Organized by Data Science Hub at Northeastern University. This project was declared to be the winner. 
 
+The datathon was held by the Data Science Hub at Northeastern University. The aim was to use COVID19 data to uncover insights that can be most impactful in the areas of at-risk population evaluation and capacity management. 
+
 Dataset: https://www.kaggle.com/roche-data-science-coalition/uncover/
 
 - The major problem that the world is facing in dealing with Corona is the availability of limited resources we have at our hand for treating patients - resources like hospital beds, ICUs, ventilators, medicines and even health care workers. This has led to pushing our health care workers to work incessantly for even more than 2 days at a stretch impacting their health as well.
